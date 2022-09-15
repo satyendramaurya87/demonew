@@ -1,4 +1,4 @@
-# [tanishasabherwal.me](https://www.tanishasabherwal.me/)
+# [https://satyendramaurya87.github.io/demonew](https://satyendramaurya87.github.io/demonew/)
 
 Tanisha's personal internet space running on NextJS with Notion. This contains my digital garden, which includes all my thoughts and learnings jot down in various stages of completion.
 
